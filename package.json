@@ -1,0 +1,14 @@
+{
+  "name": "nn",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "ts-node -P tsconfig.json src/main.ts"
+  },
+  "dependencies": {
+    "typescript": "5.1.6",
+    "tslib": "2.6.0"
+  },
+  "devDependencies": {
+    "ts-node": "10.9.1"
+  }
+}
